@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-color: #e2d6d6ea;
+    }
+h1{
+    font-size: 50px;
+    padding-top: 100px;
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 30px;
+    border-radius: 10px;
+}
+section{
+    display: flex;
+}
+.main-section p{
+    padding-left:20px;
+}
