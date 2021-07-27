@@ -19,7 +19,7 @@ h1{
     color: white;
 
 }
-section{
+.flexible{
     display: flex;
 
 }
@@ -31,10 +31,49 @@ section{
     padding-right: 300px;
 
 }
-
 .main-section img{
     height: 100%;
     width: 120%;
     float: right;
     padding-right: 40px;
+}
+.second-section{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 60px;
+
+}
+#about-img{
+    height: 93%;
+    width: 40%;
+    padding-left: 200px;
+    margin-top: 40px;
+}
+.about-section{
+    width: 50%;
+    margin-top: 150px;
+    padding-right: 100px;
+
+}
+.about-section h2{
+    font-size: 40px;
+}
+
+.recipies-area h2{
+       font-size: 30px;
+       text-align: center;
+}
+.recipies-area p{
+    text-align: center;
+    line-height: 0.5;
+    
+}
+
+#footer{
+    height: 200px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
 }
