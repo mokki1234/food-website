@@ -69,6 +69,40 @@ h1{
     line-height: 0.5;
     
 }
+.item {
+    width: 20% ;
+    border: 10px solid whitesmoke ;
+    border-radius:  30px;
+    padding: 10px 20px 20px 20px;
+    text-align: justify;
+    margin-left: 90px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    }
+.item img{
+    width: 100%;
+    border-radius: 15px;
+    }
+
+.value-section{
+    border: 3px solid whitesmoke;
+    border-radius: 20px;
+    width: 80%;
+    padding:40px;
+    margin-left: 90px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.info{
+    width: 20%;
+    padding-left: 120px;
+}
+.info h2{
+    font-size: 40px;
+    line-height: 1px;
+}
+
 
 #footer{
     height: 200px;
